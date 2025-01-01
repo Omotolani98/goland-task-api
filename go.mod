@@ -1,4 +1,4 @@
-module my_first_api
+module github.com/omotolani98/goland-task-api
 
 go 1.23
 

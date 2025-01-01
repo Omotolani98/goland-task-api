@@ -2,7 +2,7 @@ package todo
 
 import (
 	"context"
-	"my_first_api/internal/db"
+	"github.com/omotolani98/goland-task-api/internal/db"
 	"reflect"
 	"testing"
 )

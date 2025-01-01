@@ -1,10 +1,10 @@
 package main
 
 import (
+	"github.com/omotolani98/goland-task-api/internal/db"
+	"github.com/omotolani98/goland-task-api/internal/todo"
+	"github.com/omotolani98/goland-task-api/internal/transport"
 	"log"
-	"my_first_api/internal/db"
-	"my_first_api/internal/todo"
-	"my_first_api/internal/transport"
 )
 
 func main() {

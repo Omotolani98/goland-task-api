@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"my_first_api/internal/db"
+	"github.com/omotolani98/goland-task-api/internal/db"
 	"strings"
 )
 
